@@ -1,0 +1,1878 @@
+{
+  "clusters": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    -1,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    -1,
+    0,
+    0,
+    0,
+    -1
+  ],
+  "metadata": [
+    {
+      "file": "al_legal_codes_clay_pg3_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_codes_clay_pg3_corrected.txt"
+    },
+    {
+      "file": "al_legal_codes_clay_pg169_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_codes_clay_pg169_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg624_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg624_corrected.txt"
+    },
+    {
+      "file": "al_legal_codes_clay_29_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_codes_clay_29_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg355_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg355_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg643_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg643_corrected.txt"
+    },
+    {
+      "file": "al_legal_codes_clay_pg170_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_codes_clay_pg170_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg657_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg657_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg432_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg432_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_1819_1_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_1819_1_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg442_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg442_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg44_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg44_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg623_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg623_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg443_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg443_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg776_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg776_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg621_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg621_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg354_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg354_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg18_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg18_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg12_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg12_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg662_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg662_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg172_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg172_corrected.txt"
+    },
+    {
+      "file": "al_legal_codes_clay_1819_2_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_codes_clay_1819_2_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_cover_page_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_cover_page_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg661_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg661_corrected.txt"
+    },
+    {
+      "file": "al_legal_code_clay_pg171_corrected.txt",
+      "state": "AL",
+      "path": "ocr_ai_results/al_results/al_legal_code_clay_pg171_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1824_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1824_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1811_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1811_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_7_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_7_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1821_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1821_page_3_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1828_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1828_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_3_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1819_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1819_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1812_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1812_page_2_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1836-1837_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1836-1837_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1835_page_5_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1835_page_5_corrected.txt"
+    },
+    {
+      "file": "nc_legal_code_1819_corrected_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/nc_legal_code_1819_corrected_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1827_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1827_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_12_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_12_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1840-41_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1840-41_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_16_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_16_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1822_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1822_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1835_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1835_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_28_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_28_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1836-1837_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1836-1837_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1812_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1812_page_1_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1840-41_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1840-41_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_11_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_11_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1827_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1827_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1835_page_6_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1835_page_6_corrected.txt"
+    },
+    {
+      "file": "nc_legal_code_1819_corrected_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/nc_legal_code_1819_corrected_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1835_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1835_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_15_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_15_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1822_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1822_page_1_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1852_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1852_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_4_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1828_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1828_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1824_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1824_page_4_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1826_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1826_page_2_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_4_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1817_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1817_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1813_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1813_page_2_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1842-43_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1842-43_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1804_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1804_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1832-33_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1832-33_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1823_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1823_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1816_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1816_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_26_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_26_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1844-45_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1844-45_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_31_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_31_corrected.txt"
+    },
+    {
+      "file": "Public laws of the State of North-Carolina, passed by the General Assembly_1858-59_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Public laws of the State of North-Carolina, passed by the General Assembly_1858-59_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1833-1834_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1833-1834_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1835_page_8_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1835_page_8_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1825_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1825_page_3_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1818_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1818_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_22_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_22_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1825_page_7_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1825_page_7_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1834-35_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1834-35_page_2_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1844-45_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1844-45_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1818_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1818_page_4_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_25_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_25_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1834-35_page_5_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1834-35_page_5_corrected.txt"
+    },
+    {
+      "file": "Public laws of the State of North-Carolina, passed by the General Assembly_1858-59_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Public laws of the State of North-Carolina, passed by the General Assembly_1858-59_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1833-1834_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1833-1834_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_21_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_21_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_18_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_18_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1834-35_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1834-35_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1825_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1825_page_4_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1826_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1826_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1804_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1804_page_2_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1842-43_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1842-43_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_9_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_9_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1813_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1813_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1823_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1823_page_1_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_3_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1832-33_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1832-33_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1817_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1817_page_4_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1816_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1816_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1813_page_5_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1813_page_5_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1825_page_5_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1825_page_5_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_19_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_19_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1833-1834_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1833-1834_page_4_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1818_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1818_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1802_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1802_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_20_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_20_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1834-35_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1834-35_page_4_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1825_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1825_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_24_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_24_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1810_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1810_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1808_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1808_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1817_page_5_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1817_page_5_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1813_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1813_page_4_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1816_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1816_page_4_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1817_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1817_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_8_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_8_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1816_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1816_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1808_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1808_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1823_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1823_page_3_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_1_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1842-43_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1842-43_page_3_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1817_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1817_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1813_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1813_page_3_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1826_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1826_page_3_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1834-35_page_3_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1825_page_6_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1825_page_6_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1802_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1802_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_23_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_23_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1818_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1818_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1825_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1825_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1833-1834_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1833-1834_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1810_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1810_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_30_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_30_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_27_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_27_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_14_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_14_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1827_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1827_page_4_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1835_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1835_page_3_corrected.txt"
+    },
+    {
+      "file": "nc_legal_code_1819_corrected_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/nc_legal_code_1819_corrected_page_4_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1835_page_7_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1835_page_7_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_10_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_10_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1822_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1822_page_4_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_29_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_29_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1819_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1819_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1821_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1821_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1824_page_5_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1824_page_5_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1811_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1811_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_5_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_5_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1806_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1806_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1824_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1824_page_1_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1852_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1852_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1819_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1819_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1821_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1821_page_2_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1828_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1828_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1806_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1806_page_1_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1811_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1811_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_6_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_6_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1852_page_1_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1852_page_1_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1824_page_2_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1824_page_2_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_17_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_17_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1822_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1822_page_3_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1827_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1827_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1814_page_13_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1814_page_13_corrected.txt"
+    },
+    {
+      "file": "The laws of North-Carolina_1835_page_4_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/The laws of North-Carolina_1835_page_4_corrected.txt"
+    },
+    {
+      "file": "nc_legal_code_1819_corrected_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/nc_legal_code_1819_corrected_page_3_corrected.txt"
+    },
+    {
+      "file": "pubs_generalassembly_serial_sessionlaws1812_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/pubs_generalassembly_serial_sessionlaws1812_page_3_corrected.txt"
+    },
+    {
+      "file": "Laws of the State of North Carolina, passed by the General Assembly_1836-1837_page_3_corrected.txt",
+      "state": "NC",
+      "path": "ocr_ai_results/nc_results/Laws of the State of North Carolina, passed by the General Assembly_1836-1837_page_3_corrected.txt"
+    },
+    {
+      "file": "tn_divorce_code_pg27_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_divorce_code_pg27_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pgli_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pgli_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg645_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg645_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg652_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg652_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pgiii_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pgiii_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg676_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg676_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg602_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg602_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg89_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg89_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pgcvi_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pgcvi_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg477_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg477_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pd603_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pd603_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg681_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg681_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg553_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg553_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pgxxvi_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pgxxvi_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg476_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg476_corrected.txt"
+    },
+    {
+      "file": "tn_divorce_code_pg82_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_divorce_code_pg82_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg610_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg610_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pglii_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pglii_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pg561_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pg561_corrected.txt"
+    },
+    {
+      "file": "tn_legal_code_pglxxxviii_corrected.txt",
+      "state": "TN",
+      "path": "ocr_ai_results/tn_results/tn_legal_code_pglxxxviii_corrected.txt"
+    }
+  ],
+  "coordinates": [
+    [
+      7.683048248291016,
+      12.44469928741455
+    ],
+    [
+      8.758071899414062,
+      13.905563354492188
+    ],
+    [
+      8.763260841369629,
+      13.068048477172852
+    ],
+    [
+      7.629014015197754,
+      11.543790817260742
+    ],
+    [
+      8.515817642211914,
+      13.305296897888184
+    ],
+    [
+      8.570710182189941,
+      13.045819282531738
+    ],
+    [
+      8.295016288757324,
+      14.556200981140137
+    ],
+    [
+      8.62360668182373,
+      13.344019889831543
+    ],
+    [
+      7.903189182281494,
+      14.380428314208984
+    ],
+    [
+      7.442829608917236,
+      13.879530906677246
+    ],
+    [
+      7.963554859161377,
+      14.165518760681152
+    ],
+    [
+      7.6031174659729,
+      11.535398483276367
+    ],
+    [
+      8.20894718170166,
+      13.958921432495117
+    ],
+    [
+      8.015310287475586,
+      14.234559059143066
+    ],
+    [
+      7.940887451171875,
+      13.498147010803223
+    ],
+    [
+      8.516488075256348,
+      14.204187393188477
+    ],
+    [
+      8.20576000213623,
+      13.053292274475098
+    ],
+    [
+      8.35151481628418,
+      12.323920249938965
+    ],
+    [
+      7.499610900878906,
+      11.91038990020752
+    ],
+    [
+      8.204286575317383,
+      14.53432846069336
+    ],
+    [
+      8.5844087600708,
+      14.129487037658691
+    ],
+    [
+      6.702666282653809,
+      12.101373672485352
+    ],
+    [
+      7.814381122589111,
+      11.330635070800781
+    ],
+    [
+      8.349849700927734,
+      13.288311958312988
+    ],
+    [
+      8.25531005859375,
+      14.668062210083008
+    ],
+    [
+      5.925863265991211,
+      14.89250659942627
+    ],
+    [
+      5.285512447357178,
+      12.872506141662598
+    ],
+    [
+      4.313429355621338,
+      11.602422714233398
+    ],
+    [
+      5.606925010681152,
+      14.326742172241211
+    ],
+    [
+      7.303346157073975,
+      14.844560623168945
+    ],
+    [
+      5.418265342712402,
+      13.709023475646973
+    ],
+    [
+      6.133068561553955,
+      10.63379192352295
+    ],
+    [
+      6.09103536605835,
+      15.25072956085205
+    ],
+    [
+      4.488638401031494,
+      11.304160118103027
+    ],
+    [
+      5.526875019073486,
+      14.762935638427734
+    ],
+    [
+      5.6344475746154785,
+      11.870840072631836
+    ],
+    [
+      5.741990566253662,
+      12.1849946975708
+    ],
+    [
+      5.586094379425049,
+      11.63074016571045
+    ],
+    [
+      10.63134765625,
+      8.622157096862793
+    ],
+    [
+      5.527367115020752,
+      11.881373405456543
+    ],
+    [
+      4.926741600036621,
+      12.441447257995605
+    ],
+    [
+      10.669733047485352,
+      8.153167724609375
+    ],
+    [
+      4.772392749786377,
+      11.526375770568848
+    ],
+    [
+      10.56421184539795,
+      8.721558570861816
+    ],
+    [
+      5.739896774291992,
+      13.652728080749512
+    ],
+    [
+      6.932745456695557,
+      14.944933891296387
+    ],
+    [
+      5.405703067779541,
+      11.90745735168457
+    ],
+    [
+      10.415088653564453,
+      8.429356575012207
+    ],
+    [
+      5.115413188934326,
+      13.1624174118042
+    ],
+    [
+      9.577288627624512,
+      9.536261558532715
+    ],
+    [
+      5.344836235046387,
+      12.977930068969727
+    ],
+    [
+      6.260991096496582,
+      12.04820728302002
+    ],
+    [
+      10.49651050567627,
+      9.063669204711914
+    ],
+    [
+      5.793392658233643,
+      12.472190856933594
+    ],
+    [
+      4.523540019989014,
+      11.260017395019531
+    ],
+    [
+      10.807395935058594,
+      8.236262321472168
+    ],
+    [
+      7.292774677276611,
+      11.830042839050293
+    ],
+    [
+      6.068811893463135,
+      15.053609848022461
+    ],
+    [
+      6.0840325355529785,
+      11.117149353027344
+    ],
+    [
+      4.7541117668151855,
+      12.931177139282227
+    ],
+    [
+      5.4180450439453125,
+      11.514327049255371
+    ],
+    [
+      7.205432891845703,
+      14.919421195983887
+    ],
+    [
+      6.258859634399414,
+      13.235363006591797
+    ],
+    [
+      5.62347412109375,
+      13.983575820922852
+    ],
+    [
+      6.362294673919678,
+      14.8330659866333
+    ],
+    [
+      6.270383834838867,
+      12.810007095336914
+    ],
+    [
+      8.887940406799316,
+      11.913284301757812
+    ],
+    [
+      6.136206150054932,
+      13.150107383728027
+    ],
+    [
+      6.996232986450195,
+      11.086503982543945
+    ],
+    [
+      6.1276373863220215,
+      13.250723838806152
+    ],
+    [
+      5.524087429046631,
+      12.660911560058594
+    ],
+    [
+      6.829958438873291,
+      11.898542404174805
+    ],
+    [
+      4.811843395233154,
+      13.40457820892334
+    ],
+    [
+      4.625594615936279,
+      12.046294212341309
+    ],
+    [
+      4.446390151977539,
+      12.522215843200684
+    ],
+    [
+      6.458467483520508,
+      10.850404739379883
+    ],
+    [
+      6.748415946960449,
+      14.622612953186035
+    ],
+    [
+      10.409244537353516,
+      8.913836479187012
+    ],
+    [
+      6.814540863037109,
+      11.172513008117676
+    ],
+    [
+      5.773799896240234,
+      13.510438919067383
+    ],
+    [
+      5.174874782562256,
+      11.567935943603516
+    ],
+    [
+      10.432541847229004,
+      8.933741569519043
+    ],
+    [
+      10.614129066467285,
+      8.13340950012207
+    ],
+    [
+      8.861064910888672,
+      13.425687789916992
+    ],
+    [
+      5.154176235198975,
+      12.15236759185791
+    ],
+    [
+      10.536373138427734,
+      8.00593376159668
+    ],
+    [
+      4.6558356285095215,
+      12.938803672790527
+    ],
+    [
+      10.746664047241211,
+      8.08914852142334
+    ],
+    [
+      4.779997825622559,
+      13.424514770507812
+    ],
+    [
+      4.316896438598633,
+      11.914995193481445
+    ],
+    [
+      4.321617603302002,
+      11.671740531921387
+    ],
+    [
+      6.4945502281188965,
+      12.410235404968262
+    ],
+    [
+      10.900365829467773,
+      8.145821571350098
+    ],
+    [
+      8.74703311920166,
+      13.624100685119629
+    ],
+    [
+      10.535268783569336,
+      8.214276313781738
+    ],
+    [
+      6.443794250488281,
+      14.770110130310059
+    ],
+    [
+      8.866888046264648,
+      11.873705863952637
+    ],
+    [
+      5.793347358703613,
+      11.217464447021484
+    ],
+    [
+      5.295655250549316,
+      13.485047340393066
+    ],
+    [
+      4.717021942138672,
+      13.351329803466797
+    ],
+    [
+      6.711460590362549,
+      15.104799270629883
+    ],
+    [
+      10.570722579956055,
+      9.047760009765625
+    ],
+    [
+      6.156123161315918,
+      15.044225692749023
+    ],
+    [
+      4.673242092132568,
+      13.276965141296387
+    ],
+    [
+      6.420297622680664,
+      15.178303718566895
+    ],
+    [
+      10.636741638183594,
+      7.980710029602051
+    ],
+    [
+      4.612915515899658,
+      11.766741752624512
+    ],
+    [
+      5.010565757751465,
+      11.456076622009277
+    ],
+    [
+      4.948599815368652,
+      12.432051658630371
+    ],
+    [
+      6.987961769104004,
+      11.674633979797363
+    ],
+    [
+      6.199228286743164,
+      14.329660415649414
+    ],
+    [
+      7.215380668640137,
+      14.612743377685547
+    ],
+    [
+      6.283802509307861,
+      11.525324821472168
+    ],
+    [
+      10.606703758239746,
+      8.952298164367676
+    ],
+    [
+      4.285708904266357,
+      11.572837829589844
+    ],
+    [
+      5.1190080642700195,
+      12.12203311920166
+    ],
+    [
+      5.5140509605407715,
+      13.201931953430176
+    ],
+    [
+      6.076598167419434,
+      14.60824203491211
+    ],
+    [
+      5.630661487579346,
+      12.659122467041016
+    ],
+    [
+      6.66207218170166,
+      11.687617301940918
+    ],
+    [
+      5.352414131164551,
+      12.49216079711914
+    ],
+    [
+      4.708072185516357,
+      12.796788215637207
+    ],
+    [
+      6.381240367889404,
+      10.999091148376465
+    ],
+    [
+      6.571627616882324,
+      15.38131046295166
+    ],
+    [
+      6.504548072814941,
+      10.945592880249023
+    ],
+    [
+      10.3097562789917,
+      8.56977653503418
+    ],
+    [
+      4.397923946380615,
+      12.27613639831543
+    ],
+    [
+      6.605950832366943,
+      14.068899154663086
+    ],
+    [
+      6.065464973449707,
+      13.677380561828613
+    ],
+    [
+      6.401661396026611,
+      15.31339168548584
+    ],
+    [
+      5.958977222442627,
+      14.731749534606934
+    ],
+    [
+      5.7906904220581055,
+      12.94991683959961
+    ],
+    [
+      4.934152603149414,
+      13.837285041809082
+    ],
+    [
+      6.833097457885742,
+      13.346638679504395
+    ],
+    [
+      8.119882583618164,
+      12.864890098571777
+    ],
+    [
+      6.253718852996826,
+      15.016956329345703
+    ],
+    [
+      6.1957316398620605,
+      10.635610580444336
+    ],
+    [
+      5.800663471221924,
+      13.997149467468262
+    ],
+    [
+      6.997162818908691,
+      14.17223072052002
+    ],
+    [
+      6.465656757354736,
+      11.18415355682373
+    ],
+    [
+      6.353558540344238,
+      11.761237144470215
+    ],
+    [
+      9.601649284362793,
+      9.502274513244629
+    ],
+    [
+      8.867696762084961,
+      12.049551010131836
+    ],
+    [
+      10.635286331176758,
+      8.943699836730957
+    ],
+    [
+      5.8350749015808105,
+      14.73849868774414
+    ],
+    [
+      10.586849212646484,
+      8.456613540649414
+    ],
+    [
+      8.00503158569336,
+      13.661269187927246
+    ],
+    [
+      6.551383018493652,
+      14.170848846435547
+    ],
+    [
+      10.761218070983887,
+      8.200090408325195
+    ],
+    [
+      7.078871250152588,
+      15.112606048583984
+    ],
+    [
+      8.808708190917969,
+      11.927855491638184
+    ],
+    [
+      5.654214382171631,
+      12.062761306762695
+    ],
+    [
+      5.2204389572143555,
+      13.288381576538086
+    ],
+    [
+      7.3677215576171875,
+      11.9833402633667
+    ],
+    [
+      5.51615571975708,
+      13.140624046325684
+    ],
+    [
+      5.709275245666504,
+      14.277494430541992
+    ],
+    [
+      8.129847526550293,
+      13.756531715393066
+    ],
+    [
+      10.660848617553711,
+      9.096796035766602
+    ],
+    [
+      6.427996635437012,
+      13.681243896484375
+    ],
+    [
+      8.910892486572266,
+      11.980566024780273
+    ],
+    [
+      4.855459213256836,
+      12.755573272705078
+    ],
+    [
+      6.985551357269287,
+      14.787410736083984
+    ],
+    [
+      5.090330123901367,
+      11.81348991394043
+    ],
+    [
+      6.059356212615967,
+      15.360174179077148
+    ],
+    [
+      6.172878742218018,
+      13.860698699951172
+    ],
+    [
+      6.132585048675537,
+      11.924398422241211
+    ],
+    [
+      7.744821548461914,
+      12.270219802856445
+    ],
+    [
+      7.408233642578125,
+      12.593719482421875
+    ],
+    [
+      8.906383514404297,
+      13.598199844360352
+    ],
+    [
+      5.7679243087768555,
+      10.556929588317871
+    ],
+    [
+      6.8622894287109375,
+      13.177663803100586
+    ],
+    [
+      7.823489189147949,
+      13.489206314086914
+    ],
+    [
+      7.387326240539551,
+      13.342207908630371
+    ],
+    [
+      5.217568397521973,
+      10.879220008850098
+    ],
+    [
+      6.071603775024414,
+      10.409993171691895
+    ],
+    [
+      8.69662094116211,
+      13.078485488891602
+    ],
+    [
+      5.590122222900391,
+      10.248699188232422
+    ],
+    [
+      5.5638346672058105,
+      11.018977165222168
+    ],
+    [
+      5.351447105407715,
+      10.12456226348877
+    ],
+    [
+      5.820592403411865,
+      10.35224437713623
+    ],
+    [
+      8.91792106628418,
+      12.10334587097168
+    ],
+    [
+      5.504648685455322,
+      10.248095512390137
+    ],
+    [
+      7.308377742767334,
+      12.715225219726562
+    ],
+    [
+      6.595917224884033,
+      12.070682525634766
+    ],
+    [
+      7.323336601257324,
+      13.96845817565918
+    ],
+    [
+      5.436267852783203,
+      10.330832481384277
+    ],
+    [
+      8.617515563964844,
+      12.840020179748535
+    ]
+  ]
+}
