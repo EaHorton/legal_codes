@@ -1,0 +1,166 @@
+import os
+import json
+from datetime import datetime
+import pytesseract
+from PIL import Image
+from openai import OpenAI
+from dotenv import load_dotenv
+from tqdm import tqdm
+import tiktoken
+
+# Load environment variables
+load_dotenv()
+
+# Initialize OpenAI client
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+
+# Create a tiktoken encoding for token counting
+encoding = tiktoken.encoding_for_model("gpt-4")
+
+class OCRProcessor:
+    def __init__(self):
+        self.total_tokens = 0
+        self.total_cost = 0
+        self.processing_stats = []
+        
+        # Create output directory
+        self.output_dir = "ocr_ai_results"
+        if not os.path.exists(self.output_dir):
+            os.makedirs(self.output_dir)
+            
+        # Create subdirectories for each state
+        for state in ['al', 'nc', 'tn']:
+            state_dir = os.path.join(self.output_dir, f"{state}_results")
+            if not os.path.exists(state_dir):
+                os.makedirs(state_dir)
+
+    def process_image(self, image_path):
+        """Process a single image through OCR and AI correction"""
+        print(f"\nProcessing: {image_path}")
+        
+        # Extract state code from path
+        state_code = os.path.basename(os.path.dirname(image_path)).split('_')[0]
+        
+        # Perform OCR
+        try:
+            image = Image.open(image_path)
+            ocr_text = pytesseract.image_to_string(image)
+        except Exception as e:
+            print(f"Error performing OCR on {image_path}: {str(e)}")
+            return None
+
+        # Save original OCR text
+        base_filename = os.path.splitext(os.path.basename(image_path))[0]
+        ocr_filename = os.path.join(self.output_dir, f"{state_code}_results", f"{base_filename}_ocr.txt")
+        with open(ocr_filename, 'w', encoding='utf-8') as f:
+            f.write(ocr_text)
+
+        # Process with OpenAI
+        try:
+            corrected_text = self.correct_with_openai(ocr_text)
+            
+            # Save corrected text
+            corrected_filename = os.path.join(self.output_dir, f"{state_code}_results", f"{base_filename}_corrected.txt")
+            with open(corrected_filename, 'w', encoding='utf-8') as f:
+                f.write(corrected_text)
+                
+            return True
+        except Exception as e:
+            print(f"Error processing with OpenAI: {str(e)}")
+            return None
+
+    def correct_with_openai(self, text):
+        """Send text to OpenAI for correction"""
+        prompt = """Please correct this historical legal text. Fix OCR errors, punctuation, and formatting while preserving the original meaning and historical context. Rules:
+1. Fix obvious OCR errors (like '0' for 'O', '1' for 'l')
+2. Add appropriate punctuation and capitalization
+3. Fix spacing and line breaks
+4. Preserve original meaning and historical context
+5. Make best guesses for unclear words based on context
+6. Do not add or delete any content unless correcting clear errors
+7. Process the ENTIRE text - do not truncate or summarize
+
+Original text:
+"""
+
+        messages = [
+            {"role": "system", "content": "You are a historical document transcription expert specializing in legal texts."},
+            {"role": "user", "content": prompt + text}
+        ]
+
+        # Count tokens
+        prompt_tokens = len(encoding.encode(prompt + text))
+        
+        # Make API call
+        response = client.chat.completions.create(
+            model="gpt-4",
+            messages=messages,
+            temperature=0.3,
+            max_tokens=4000
+        )
+        
+        # Update token counts and costs
+        completion_tokens = response.usage.completion_tokens
+        total_tokens = response.usage.total_tokens
+        
+        # Calculate cost (GPT-4 pricing: $0.03/1K prompt tokens, $0.06/1K completion tokens)
+        prompt_cost = (prompt_tokens / 1000) * 0.03
+        completion_cost = (completion_tokens / 1000) * 0.06
+        
+        self.total_tokens += total_tokens
+        self.total_cost += (prompt_cost + completion_cost)
+        
+        # Store processing stats
+        self.processing_stats.append({
+            'prompt_tokens': prompt_tokens,
+            'completion_tokens': completion_tokens,
+            'total_tokens': total_tokens,
+            'cost': prompt_cost + completion_cost
+        })
+
+        return response.choices[0].message.content
+
+    def save_processing_stats(self):
+        """Save processing statistics to a JSON file"""
+        stats = {
+            'timestamp': datetime.now().isoformat(),
+            'total_tokens': self.total_tokens,
+            'total_cost': self.total_cost,
+            'detailed_stats': self.processing_stats
+        }
+        
+        stats_file = os.path.join(self.output_dir, 'processing_stats.json')
+        with open(stats_file, 'w') as f:
+            json.dump(stats, f, indent=2)
+
+def main():
+    processor = OCRProcessor()
+    
+    # Get all image files from the jpg directories
+    image_files = []
+    base_dir = "divorce_codes_jpg"
+    
+    for state_dir in ['al_divorce_codes_jpg', 'nc_divorce_codes_jpg', 'tn_divorce_codes_jpg']:
+        dir_path = os.path.join(base_dir, state_dir)
+        if os.path.exists(dir_path):
+            for file in os.listdir(dir_path):
+                if file.lower().endswith(('.jpg', '.jpeg')):
+                    image_files.append(os.path.join(dir_path, file))
+
+    # Process all images with progress bar
+    with tqdm(total=len(image_files), desc="Processing Images") as pbar:
+        for image_path in image_files:
+            processor.process_image(image_path)
+            pbar.update(1)
+
+    # Save final statistics
+    processor.save_processing_stats()
+    
+    # Print summary
+    print("\nProcessing Complete!")
+    print(f"Total Tokens Used: {processor.total_tokens:,}")
+    print(f"Total Estimated Cost: ${processor.total_cost:.2f}")
+    print(f"Results saved in: {processor.output_dir}")
+
+if __name__ == "__main__":
+    main()
