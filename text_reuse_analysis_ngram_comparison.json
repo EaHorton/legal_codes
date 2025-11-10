@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "n_gram_sizes": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "similarity_threshold": 0.1
+  },
+  "analysis": {
+    "3": [
+      {
+        "document1": "nc_legal_code_1819_corrected_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1819_page_2_corrected.txt",
+        "similarity_score": 0.9532520325203252,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.24329896907216494,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.2129817444219067,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.20867768595041322,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1824_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1823_page_2_corrected.txt",
+        "similarity_score": 0.18618042226487524,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1832-33_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1833-1834_page_4_corrected.txt",
+        "similarity_score": 0.17582417582417584,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1817_page_4_corrected.txt",
+        "document2": "The laws of North-Carolina_1817_page_2_corrected.txt",
+        "similarity_score": 0.16687737041719342,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1835_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.13218390804597702,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1824_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1832-33_page_2_corrected.txt",
+        "similarity_score": 0.1293233082706767,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1835_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "similarity_score": 0.12816901408450704,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "Laws of the State of North Carolina, passed by the General Assembly_1842-43_page_2_corrected.txt",
+        "document2": "Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_2_corrected.txt",
+        "similarity_score": 0.11923076923076924,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "pubs_generalassembly_serial_sessionlaws1810_page_2_corrected.txt",
+        "document2": "pubs_generalassembly_serial_sessionlaws1806_page_2_corrected.txt",
+        "similarity_score": 0.11818738518064911,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1824_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1825_page_2_corrected.txt",
+        "similarity_score": 0.1126984126984127,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_2_corrected.txt",
+        "document2": "Laws of the State of North Carolina, passed by the General Assembly_1852_page_2_corrected.txt",
+        "similarity_score": 0.1111111111111111,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1835_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.11063829787234042,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1817_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1817_page_2_corrected.txt",
+        "similarity_score": 0.11029411764705882,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1823_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.1073943661971831,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1824_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.10707456978967496,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "Laws of the State of North Carolina, passed by the General Assembly_1842-43_page_2_corrected.txt",
+        "document2": "Laws of the State of North Carolina, passed by the General Assembly_1852_page_2_corrected.txt",
+        "similarity_score": 0.10631229235880399,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1833-1834_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.1059245960502693,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1821_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1825_page_2_corrected.txt",
+        "similarity_score": 0.10484927916120576,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1824_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1825_page_5_corrected.txt",
+        "similarity_score": 0.10413476263399694,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1825_page_5_corrected.txt",
+        "document2": "The laws of North-Carolina_1825_page_2_corrected.txt",
+        "similarity_score": 0.10335917312661498,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1832-33_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1823_page_2_corrected.txt",
+        "similarity_score": 0.10330578512396695,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "pubs_generalassembly_serial_sessionlaws1802_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.10327868852459017,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1823_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1821_page_2_corrected.txt",
+        "similarity_score": 0.10124610591900311,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1823_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1825_page_2_corrected.txt",
+        "similarity_score": 0.10117302052785923,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1821_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1821_page_2_corrected.txt",
+        "similarity_score": 0.10055096418732783,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1825_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1825_page_5_corrected.txt",
+        "similarity_score": 0.10023584905660378,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1824_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1833-1834_page_2_corrected.txt",
+        "similarity_score": 0.1,
+        "state1": "nc",
+        "state2": "nc"
+      }
+    ],
+    "4": [
+      {
+        "document1": "nc_legal_code_1819_corrected_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1819_page_2_corrected.txt",
+        "similarity_score": 0.9416342412451362,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.1944922547332186,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.17288135593220338,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.15862068965517243,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1824_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1823_page_2_corrected.txt",
+        "similarity_score": 0.14922813036020582,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1832-33_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1833-1834_page_4_corrected.txt",
+        "similarity_score": 0.14431818181818182,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1817_page_4_corrected.txt",
+        "document2": "The laws of North-Carolina_1817_page_2_corrected.txt",
+        "similarity_score": 0.13099415204678364,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1835_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.10866752910737387,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1835_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "similarity_score": 0.10732323232323232,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "Laws of the State of North Carolina, passed by the General Assembly_1842-43_page_2_corrected.txt",
+        "document2": "Laws of the State of North Carolina, passed by the General Assembly_1838-1839_page_2_corrected.txt",
+        "similarity_score": 0.10037174721189591,
+        "state1": "nc",
+        "state2": "nc"
+      }
+    ],
+    "5": [
+      {
+        "document1": "nc_legal_code_1819_corrected_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1819_page_2_corrected.txt",
+        "similarity_score": 0.9297912713472486,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.1582952815829528,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.14674735249621784,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.12405446293494705,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1832-33_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1833-1834_page_4_corrected.txt",
+        "similarity_score": 0.11860718171926006,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1824_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1823_page_2_corrected.txt",
+        "similarity_score": 0.11746031746031746,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1817_page_4_corrected.txt",
+        "document2": "The laws of North-Carolina_1817_page_2_corrected.txt",
+        "similarity_score": 0.10555555555555556,
+        "state1": "nc",
+        "state2": "nc"
+      }
+    ],
+    "6": [
+      {
+        "document1": "nc_legal_code_1819_corrected_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1819_page_2_corrected.txt",
+        "similarity_score": 0.9216417910447762,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.14102564102564102,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.1271186440677966,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.1056338028169014,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1832-33_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1833-1834_page_4_corrected.txt",
+        "similarity_score": 0.10180275715800637,
+        "state1": "nc",
+        "state2": "nc"
+      }
+    ],
+    "7": [
+      {
+        "document1": "nc_legal_code_1819_corrected_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1819_page_2_corrected.txt",
+        "similarity_score": 0.9134438305709024,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.1280323450134771,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.11512717536813923,
+        "state1": "nc",
+        "state2": "nc"
+      }
+    ],
+    "8": [
+      {
+        "document1": "nc_legal_code_1819_corrected_page_2_corrected.txt",
+        "document2": "The laws of North-Carolina_1819_page_2_corrected.txt",
+        "similarity_score": 0.9036363636363637,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_3_corrected.txt",
+        "similarity_score": 0.11538461538461539,
+        "state1": "nc",
+        "state2": "nc"
+      },
+      {
+        "document1": "The laws of North-Carolina_1834-35_page_3_corrected.txt",
+        "document2": "The laws of North-Carolina_1835_page_4_corrected.txt",
+        "similarity_score": 0.10344827586206896,
+        "state1": "nc",
+        "state2": "nc"
+      }
+    ]
+  }
+}
