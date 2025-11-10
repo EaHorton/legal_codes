@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "n_gram_size": 4,
+    "similarity_threshold": 0.1
+  },
+  "document_pairs": [
+    {
+      "document1": "nc_legal_code_1819_corrected_page_2_corrected.txt",
+      "document2": "The laws of North-Carolina_1819_page_2_corrected.txt",
+      "similarity_score": 0.9595588235294118,
+      "state1": "nc",
+      "state2": "nc"
+    },
+    {
+      "document1": "The laws of North-Carolina_1832-33_page_2_corrected.txt",
+      "document2": "The laws of North-Carolina_1833-1834_page_4_corrected.txt",
+      "similarity_score": 0.1299559471365639,
+      "state1": "nc",
+      "state2": "nc"
+    }
+  ]
+}
