@@ -40,8 +40,9 @@ The research investigates legal text borrowing patterns through multiple analyti
 - **`enhanced_borrowing_analysis.py`** - Advanced borrowing pattern analysis
 
 #### Visualization
-- **`visualize_text_reuse.py`** - Creates network visualizations of text reuse
-- **`visualize_cross_state_reuse.py`** - Specialized cross-state borrowing visualizations
+- **`visualize_text_reuse.py`** - Enhanced network visualizations supporting k-shingles analysis
+- **`visualize_cross_state_reuse.py`** - Enhanced cross-state borrowing visualizations with multi-metric analysis
+- **`create_enhanced_visualizations.py`** - Comprehensive visualization suite for k-shingles analysis
 - **`list_visualizations.py`** - Lists and describes all generated visualizations
 
 #### Utilities and Debugging
@@ -130,21 +131,35 @@ Through systematic threshold analysis:
 - **7-grams** offer higher precision for detecting direct copying
 - **Cross-state pairs** show lower but still significant similarity patterns
 
-## Visualizations
+### Visualizations
 
-The project generates comprehensive HTML visualizations:
+The project generates comprehensive HTML visualizations supporting both basic and enhanced k-shingles analysis:
 
-### Network Visualizations
+#### Enhanced K-Shingles Visualizations
+- **`enhanced_dashboard.html`** - Comprehensive analysis dashboard with all similarity measures
+- **`method_comparison.html`** - Detailed comparison of n-grams vs k-shingles effectiveness
+- **`enhanced_network.html`** - Interactive network with detailed similarity breakdowns
+- **`similarity_comparison.html`** - Side-by-side comparison of different similarity measures
+
+#### Network Visualizations
 - **`state_network.html`** - Interactive network of state-to-state borrowing
-- **`cross_state_network.html`** - Focus on inter-state relationships
-- **`text_reuse_network.html`** - Document-level borrowing networks
+- **`cross_state_network_enhanced.html`** - Enhanced cross-state relationships with k-shingles data
+- **`text_reuse_network_enhanced.html`** - Document-level borrowing networks with similarity details
 
-### Statistical Analysis
-- **`similarity_heatmap.html`** - Heatmap of similarity scores between states
-- **`similarity_distribution.html`** - Distribution analysis of similarity scores
-- **`cross_state_heatmap.html`** - Cross-state borrowing intensity
+#### Statistical Analysis
+- **`similarity_heatmap_enhanced.html`** - Multi-measure heatmap of similarity scores
+- **`similarity_distribution_combined.html`** - Comparative distribution analysis across methods
+- **`cross_state_heatmap_enhanced.html`** - Multi-metric cross-state analysis
+- **`cross_state_similarity_breakdown.html`** - Detailed breakdown of cross-state similarity measures
 
-### Comprehensive Reports
+#### Individual Method Heatmaps
+- **`heatmap_ngram_similarity.html`** - N-gram similarity heatmap
+- **`heatmap_char5_similarity.html`** - Character 5-shingle similarity heatmap
+- **`heatmap_char10_similarity.html`** - Character 10-shingle similarity heatmap
+- **`heatmap_word3_similarity.html`** - Word 3-shingle similarity heatmap
+- **`heatmap_combined_similarity.html`** - Combined similarity heatmap
+
+#### Comprehensive Reports
 - **`network_analysis_report.html`** - Complete network analysis findings
 - **`comprehensive_borrowing_report.html`** - Executive summary with key findings
 - **`text_reuse_report.html`** - Detailed text reuse analysis with examples
@@ -156,6 +171,25 @@ The project generates comprehensive HTML visualizations:
 2. **Download NLTK data**: Run Python and execute `nltk.download('stopwords')` and `nltk.download('punkt')`
 3. **Run basic analysis**: `python analyze_text_reuse_detailed.py`
 4. **Generate visualizations**: `python network_analysis.py`
+
+### Enhanced K-Shingles Analysis
+```python
+# Run enhanced 5-gram + k-shingles analysis
+python3 analyze_5gram_thresholds.py
+# Results saved to text_reuse_analysis_5gram_shingles.json
+
+# Create comprehensive enhanced visualizations
+python3 create_enhanced_visualizations.py
+# Generates dashboard, method comparison, and network visualizations
+
+# Create enhanced cross-state analysis
+python3 visualize_cross_state_reuse.py
+# Generates enhanced cross-state visualizations
+
+# Create enhanced network and heatmaps
+python3 visualize_text_reuse.py
+# Generates multiple similarity measure visualizations
+```
 
 ### Custom Analysis
 ```python
@@ -169,14 +203,14 @@ results = analyze_text_reuse("actual_divorce_codes")
 ### Comparative N-gram Analysis
 ```python
 # Compare different n-gram sizes
-python analyze_ngram_variations.py
+python3 analyze_ngram_variations.py
 # Results saved to text_reuse_analysis_ngram_comparison.json
 ```
 
 ### Network Analysis
 ```python
 # Generate complete network analysis
-python network_analysis.py
+python3 network_analysis.py
 # Creates visualizations in visualizations/ directory
 ```
 
