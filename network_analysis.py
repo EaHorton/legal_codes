@@ -62,7 +62,7 @@ class LegalCodeNetworkAnalysis:
         print(f"Found {len(self.cross_state_pairs)} cross-state pairs")
         print(f"Found {len(self.within_state_pairs)} within-state pairs")
     
-    def create_state_network(self, similarity_threshold=0.005):
+    def create_state_network(self, similarity_threshold=0.008945):
         """Create a network graph of states based on text similarity"""
         G = nx.Graph()
         
@@ -442,11 +442,11 @@ def main():
     
     # Load data from 5-gram analysis (most comprehensive)
     if analyzer.load_similarity_data('text_reuse_analysis_5gram.json'):
-        # Preprocess data
-        analyzer.preprocess_data(min_similarity=0.005)  # Lower threshold to capture more relationships
+        # Preprocess data with appropriate threshold for legal text analysis
+        analyzer.preprocess_data(min_similarity=0.008945)  # 90th percentile - focus on meaningful borrowing
         
-        # Create state network with lower threshold to ensure edges are visible
-        state_graph, state_similarities = analyzer.create_state_network(similarity_threshold=0.005)
+        # Create state network with conservative threshold for legal borrowing analysis
+        state_graph, state_similarities = analyzer.create_state_network(similarity_threshold=0.008945)
         
         # Create visualizations
         analyzer.visualize_state_network(state_graph, state_similarities, 

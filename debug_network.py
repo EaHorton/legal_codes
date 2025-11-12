@@ -22,7 +22,7 @@ def create_debug_network():
     # Group by state pairs
     state_pairs = defaultdict(list)
     for pair in similarity_data:
-        if pair['similarity_score'] >= 0.005:  # Use low threshold
+        if pair['similarity_score'] >= 0.008945:  # Use conservative threshold for legal analysis
             state_pair = tuple(sorted([pair['state1'], pair['state2']]))
             state_pairs[state_pair].append(pair['similarity_score'])
     

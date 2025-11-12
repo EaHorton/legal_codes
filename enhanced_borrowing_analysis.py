@@ -24,13 +24,13 @@ def load_and_analyze_cross_state_borrowing():
     
     similarity_data = data['similarity_scores']
     
-    # Filter for cross-state pairs only
+        # Filter for cross-state pairs with conservative threshold for legal analysis
     cross_state_pairs = [
         pair for pair in similarity_data 
-        if pair['state1'] != pair['state2'] and pair['similarity_score'] >= 0.005
+        if pair['state1'] != pair['state2'] and pair['similarity_score'] >= 0.008945
     ]
     
-    print(f"Found {len(cross_state_pairs)} cross-state document pairs with similarity >= 0.005")
+    print(f"Found {len(cross_state_pairs)} cross-state document pairs with similarity >= 0.008945")
     
     # Group by state pairs
     state_pair_analysis = defaultdict(list)
